@@ -1,0 +1,4 @@
+A:  Hadoop is a distributed computing framework that allows for the distributed storage and processing of large data sets across a cluster of computers. It consists of two main parts: the Hadoop Distributed File System (HDFS) for distributed storage, and the MapReduce programming model for distributing the processing of data.
+
+A:   Hadoop is primarily used for storing and processing large datasets in a distributed computing environment. It is designed to scale horizontally by adding more nodes to the cluster, allowing it to handle very large datasets that would be too big or too slow to process on a single machine. Hadoop also provides a programming model called MapReduce, which allows developers to write programs that can be executed in parallel across multiple nodes in the cluster, making it a powerful tool for data processing and analysis.
+
