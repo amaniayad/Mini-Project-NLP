@@ -1,3 +1,4 @@
+The project is: Interactive PDF Chat Application with Conversational AI
 Please run: streamlit run StreamliApp.py
 
 To save a response please write: write a note
